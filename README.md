@@ -6,7 +6,7 @@
 
 1. **Descarga el programa**: Puedes clonar este repositorio o descargar el código fuente como un archivo ZIP.
 2. **Instala las dependencias**: Asegúrate de tener Python instalado en tu sistema. Luego, instala las dependencias necesarias ejecutando `pip install -r requirements.txt` en tu terminal.
-3. **Ejecuta el programa**: Ejecuta el script `calendar_converter.py` en tu entorno Python.
+3. **Ejecuta el programa**: Ejecuta el script `conversor.py` en tu entorno Python.
 4. **Selecciona tu archivo iCalendar**: Haz clic en el botón "Convertir y Ordenar" y selecciona el archivo iCalendar que deseas convertir.
 5. **Elige la ubicación de salida**: Se te pedirá que elijas la ubicación y el nombre del archivo Excel resultante.
 6. **¡Listo!**: Tu archivo Excel estará listo con tus eventos organizados por categorías.
